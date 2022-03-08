@@ -7,3 +7,6 @@ rutas:
 POST api/signin para loguearnos
 POST api/signup para registrarnos
 GET api/autorizado entramos en la pagina logueado perfectamente
+
+documentacion 
+https://es.scribd.com/document/563328232/Login-Con-Passport
